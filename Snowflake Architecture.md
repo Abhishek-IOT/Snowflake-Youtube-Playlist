@@ -105,7 +105,6 @@ An organization may have workloads in **AWS US**, **Azure Europe**, and **Google
 
 ---
 
-## Putting It All Together
 
 A simple way to remember Snowflake's architecture is:
 
